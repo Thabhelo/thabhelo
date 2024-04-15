@@ -9,9 +9,12 @@
     </ul>
     <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=thabhelo&show_icons=true&theme=tokyonight" alt="Thabhelo's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=thabhelo&show_icons=true&theme=dark" alt="Thabhelo's GitHub Stats">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabhelo&theme=tokyonight&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabhelo&theme=dark&layout=compact" alt="Top Languages">
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabhelo&theme=dark" alt="Thabhelo's Contribution Streak">
     </a>
 </div>
