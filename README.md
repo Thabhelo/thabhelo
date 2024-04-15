@@ -17,4 +17,7 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabhelo&theme=radical" alt="Thabhelo's Contribution Streak">
     </a>
+    <a href="https://wakatime.com/@thabhelo">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thabhelo&theme=radical" alt="Thabhelo's Wakatime Stats">
+    </a>
 </div>
