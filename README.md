@@ -2,11 +2,18 @@
     <h2> Hi there 👋, I'm Thabhelo (22) </h2>
     <img src="https://github.com/Thabhelo/thabhelo/assets/50872400/7ee7568e-acec-4ad0-93cd-42866f6d779d" height="500" width="600">
     <hr>
-    <p><b><i> I sleep, sing, code, run, and repeat </i></b></p>
+    <p><b><i> I sleep, sing, code, run, read, write and repeat </i></b></p>
     <ul>
         <li>💬 Ask me about tech, stocks, and math.</li>
         <li>📫 How to reach me: email me at <a href="mailto:thabhelo.duve@talladega.edu">thabhelo.duve@talladega.edu</a>, DM on Instagram: <a href="https://instagram.com/thabhelo_tabs">thabhelo_tabs</a></li>
     </ul>
+    <hr>
+    <p>
+        I'm a freshman Computer Science + Math student based in the USA.
+        I'm a growing software developer, with a keen interest in VR/AR development and ML, and also very passionate with fullstack software development, and other careers in tech like Testing and Automation, Product         Management, Cloud Engineering, Data Analysis and DevOps.
+        I love Python, JavaScript, TypeScript, C++, C# and Swift.
+        I am currently learning Go, OpenGL, Reality Composer Pro, and C.
+    </p>
     <hr>
 </div>
 <div>
@@ -23,6 +30,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabhelo&theme=radical" alt="Thabhelo's Contribution Streak">
     </a>    
 </div>
+<hr>
 <div align="center">
     <h3>🛠️ Development Environments</h3>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
