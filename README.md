@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hi there 👋, I'm Thabhelo (22) </h2>
+    <h2> Hey there 👋, I'm Thabhelo (22) </h2>
     <img src="https://github.com/Thabhelo/thabhelo/assets/50872400/7ee7568e-acec-4ad0-93cd-42866f6d779d" height="500" width="600">
     <hr>
     <p><b><i> I sleep, sing, code, run, read, write and repeat </i></b></p>
@@ -11,7 +11,7 @@
 </div> 
 <div align="center">
     <h2>About Me</h2>
-    <p>I'm a freshman Computer Science + Math student based in the USA, and a 3x hackathon winner. As a growing software developer, I have a keen interest in VR/AR development, ML, and I'm very passionate about full-stack software development. I'm involved in other tech careers such as Testing and Automation, Product Management, Cloud Engineering, Data Analysis, and DevOps. I love coding in Python, JavaScript, TypeScript, C++, C#, and Swift and am currently learning Go, OpenGL, Reality Composer Pro, and C.</p>
+    <p>I'm a Computer Science & Math student based in the USA, and a 3x hackathon winner. As a growing software developer, I have a keen interest in VR/AR development, ML, and I'm very passionate about full-stack software development. I'm involved in other tech careers such as Testing and Automation, Product Management, Cloud Engineering, Data Analysis, and DevOps. I love coding in Python, JavaScript, TypeScript, C++, C#, and Swift and am currently learning Go, OpenGL, Reality Composer Pro, and C.</p>
     <h3>Outside the Classroom</h3>
     <ul>
         <li>I write blog articles on tech, finance, and entrepreneurship.</li>
