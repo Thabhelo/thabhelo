@@ -8,14 +8,19 @@
         <li>📫 How to reach me: email me at <a href="mailto:thabhelo.duve@talladega.edu">thabhelo.duve@talladega.edu</a>, DM on Instagram: <a href="https://instagram.com/thabhelo_tabs">thabhelo_tabs</a></li>
     </ul>
     <hr>
-    <p>
-        I'm a freshman Computer Science + Math student based in the USA.
-        I'm a growing software developer, with a keen interest in VR/AR development and ML, and also very passionate with fullstack software development, and other careers in tech like Testing and Automation, Product         Management, Cloud Engineering, Data Analysis and DevOps.
-        I love Python, JavaScript, TypeScript, C++, C# and Swift.
-        I am currently learning Go, OpenGL, Reality Composer Pro, and C.
-    </p>
-    <hr>
+</div> 
+<div align="center">
+    <h2>About Me</h2>
+    <p>I'm a freshman Computer Science + Math student based in the USA, and a 3x hackathon winner. As a growing software developer, I have a keen interest in VR/AR development, ML, and I'm very passionate about full-stack software development. I'm involved in other tech careers such as Testing and Automation, Product Management, Cloud Engineering, Data Analysis, and DevOps. I love coding in Python, JavaScript, TypeScript, C++, C#, and Swift and am currently learning Go, OpenGL, Reality Composer Pro, and C.</p>
+    <h3>Outside the Classroom</h3>
+    <ul>
+        <li>I write blog articles on tech, finance, and entrepreneurship.</li>
+        <li>I create content to inspire and help others get started with coding and share my learning process as a developer.</li>
+        <li>I enjoy teaching coding & math and look forward to making videos on Leetcode problem-solving.</li>
+        <li>I appreciate recruiters who give me a chance to interview for internships. 😄</li>
+    </ul>
 </div>
+<hr>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=thabhelo&show_icons=true&theme=dark" alt="Thabhelo's GitHub Stats">
