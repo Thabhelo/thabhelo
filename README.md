@@ -15,6 +15,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabhelo&theme=dark&layout=compact" alt="Top Languages">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabhelo&theme=dark" alt="Thabhelo's Contribution Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabhelo&theme=radical" alt="Thabhelo's Contribution Streak">
     </a>
 </div>
