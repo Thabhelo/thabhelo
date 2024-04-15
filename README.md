@@ -35,7 +35,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabhelo&theme=radical" alt="Thabhelo's Contribution Streak">
     </a>    
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=thabhelo&theme=radical" alt="GitHub Profile Trophies">
+        <img src="https://github-profile-trophy.vercel.app/?username=thabhelo&theme=dracula" alt="GitHub Profile Trophies">
     </a>
 </div>
 <hr>
