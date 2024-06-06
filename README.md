@@ -11,7 +11,7 @@
 </div> 
 <div align="center">
     <h2>About Me</h2>
-    <p>I'm a Computer Science & Math student based in the USA, and a 3x hackathon winner. As a growing software developer, I have a keen interest in VR/AR development, ML, and I'm very passionate about full-stack software development. I'm involved in other tech careers such as Testing and Automation, Product Management, Cloud Engineering, Data Analysis, and DevOps. I love coding in Python, JavaScript, TypeScript, C++, C#, and Swift and am currently learning Go, OpenGL, Reality Composer Pro, and C.</p>
+    <p>I'm a Computer Science & Math student based in the USA, and a 3x hackathon winner. As a growing software developer, I have a keen interest in VR/AR development, ML, and I'm very passionate about full-stack software development. I'm interested in other tech careers such as Testing and Automation, Product Management, Cloud Engineering, Data Analysis, and DevOps. I love coding in Python, JavaScript, TypeScript, C++, C#, and Swift and am currently learning Go, OpenGL, Reality Composer Pro, and C.</p>
     <h3>Outside the Classroom</h3>
     <ul>
         <li>I write blog articles on tech, finance, and entrepreneurship.</li>
