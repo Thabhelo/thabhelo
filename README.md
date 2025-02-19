@@ -28,10 +28,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabhelo&theme=dark&layout=compact" alt="Top Languages">
     </a>
-    <a href="https://wakatime.com/@thabhelo">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thabhelo&theme=radical" alt="Thabhelo's Wakatime Stats">
-    </a>
-    <a href="https://git.io/streak-stats">
+    <a href="https://wakatime.com/@b1786318-8a96-4d5e-b9cb-c4465e1861ff"><img src="https://wakatime.com/badge/user/b1786318-8a96-4d5e-b9cb-c4465e1861ff.svg" alt="Total time coded since Sep 23 2023" /></a>                  
+    <a href="https://git.io/streak-stats">    
         <img src="https://streak-stats.demolab.com/?user=thabhelo" alt="Thabhelo's GitHub streak stats">
     </a> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
