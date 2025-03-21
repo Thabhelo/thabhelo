@@ -11,7 +11,9 @@
 </div> 
 <div align="center">
     <h2>About Me</h2>
-    <p>I'm a Computer Science & Math student based in the USA, and a 3x hackathon winner. As a growing software developer, I have a keen interest in VR/AR development, ML, and I'm very passionate about full-stack software development. I'm interested in other tech careers such as Testing and Automation, Product Management, Cloud Engineering, Data Analysis, and DevOps. I love coding in Python, JavaScript, TypeScript, C++, C#, and Swift and am currently learning Go, OpenGL, Reality Composer Pro, and C.</p>
+    <p>I have a strong foundation in Computer Science and Mathematics, I'm an 8x hackathon winner, and I'm a Software Engineering Intern at Amazon. I'm a growing Full Stack Software Engineer, with a keen interest in web and VR/AR development. I'm also very passionate in Data Science, Machine Learning and Cloud Engineering. I spend most time working with Java, Python, JavaScript, TypeScript and Swift.
+
+I'm a quick learner and collaborate closely with teams to create efficient, scalable, and user-friendly solutions that solve real-world problems. I'm also a huge fan of open-source and I'm always looking for ways to give back to the community - whether it’s fixing bugs, writing documentation, or just adding a README that doesn’t leave people questioning their career choices :-) I love writing in TypeScript, Java, Python, C++, and Swift. (in that order btw) I kinda do tolerate Go and C, they are cool.</p>
     <h3>Outside the Classroom</h3>
     <ul>
         <li>I write blog articles on tech, finance, and entrepreneurship.</li>
