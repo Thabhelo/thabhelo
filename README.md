@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hey there 👋, I'm Thabhelo (22) </h2>
+    <h2> Hey there 👋, I'm Thabhelo (23) </h2>
     <img src="https://github.com/Thabhelo/thabhelo/assets/50872400/7ee7568e-acec-4ad0-93cd-42866f6d779d" height="500" width="600">
     <hr>
     <p><b><i> I sleep, sing, code, run, read, write and repeat </i></b></p>
