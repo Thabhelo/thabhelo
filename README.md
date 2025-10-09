@@ -4,23 +4,14 @@
     <hr>
     <p><b><i> I sleep, sing, code, run, read, write and repeat </i></b></p>
     <ul>
-        <li>💬 Ask me about tech, stocks, and math.</li>
-        <li>📫 How to reach me: email me at <a href="mailto:thabhelo.duve@talladega.edu">thabhelo.duve@talladega.edu</a>, DM on Instagram: <a href="https://instagram.com/thabhelo_tabs">thabhelo_tabs</a></li>
+        <li>📫 How to reach me: email me at <a href="mailto:thabhelo@deepubuntu.com">thabhelo@deepubuntu.com</a>, DM on Instagram: <a href="https://instagram.com/thabhelo_tabs">thabhelo_tabs</a></li>
     </ul>
     <hr>
 </div> 
 <div align="center">
     <h2>About Me</h2>
-    <p>I have a strong foundation in Computer Science and Mathematics, I'm an 8x hackathon winner, and I'm a Software Engineering Intern at Amazon. I'm a growing Full Stack Software Engineer, with a keen interest in web and VR/AR development. I'm also very passionate in Data Science, Machine Learning and Cloud Engineering. I spend most time working with Java, Python, JavaScript, TypeScript and Swift.
-
-I'm a quick learner and collaborate closely with teams to create efficient, scalable, and user-friendly solutions that solve real-world problems. I'm also a huge fan of open-source and I'm always looking for ways to give back to the community - whether it’s fixing bugs, writing documentation, or just adding a README that doesn’t leave people questioning their career choices :-) I love writing in TypeScript, Java, Python, C++, and Swift. (in that order btw) I kinda do tolerate Go and C, they are cool.</p>
-    <h3>Outside the Classroom</h3>
-    <ul>
-        <li>I write blog articles on tech, finance, and entrepreneurship.</li>
-        <li>I create content to inspire and help others get started with coding and share my learning process as a developer.</li>
-        <li>I enjoy teaching coding & math and look forward to making videos on Leetcode problem-solving.</li>
-        <li>I appreciate recruiters who give me a chance to interview for internships. 😄</li>
-    </ul>
+    <p>Computer Science, Mathematics and Physics, 8x hackathon winner, formerly Software Engineering at Amazon. I read an average of 6 Machine Learning research papers per month. 
+    <p>I'm a huge fan of open-source and I'm always looking for ways to give back to the community.</p>
 </div>
 <hr>
 <div>
