@@ -1,17 +1,17 @@
 <div align="center">
-    <h2> Hey there 👋, I'm Thabhelo (23) </h2>
+    <h2> Hey there, I'm Thabhelo </h2>
     <img src="https://github.com/Thabhelo/thabhelo/assets/50872400/7ee7568e-acec-4ad0-93cd-42866f6d779d" height="500" width="600">
     <hr>
     <p><b><i> I sleep, sing, code, run, read, write and repeat </i></b></p>
     <ul>
-        <li>📫 How to reach me: email me at <a href="mailto:thabhelo@deepubuntu.com">thabhelo@deepubuntu.com</a>, DM on Instagram: <a href="https://instagram.com/thabhelo_tabs">thabhelo_tabs</a></li>
+        <li> Reach me at <a href="mailto:thabhelo@deepubuntu.com">thabhelo@deepubuntu.com</a>
     </ul>
     <hr>
 </div> 
 <div align="center">
     <h2>About Me</h2>
-    <p>Computer Science, Mathematics and Physics, 11x hackathon winner, formerly Software Engineering at Amazon. I read an average of 3 Machine Learning research papers per month. 
-    <p>I'm a huge fan of open-source and I'm always looking for ways to give back to the community.</p>
+    <p>Computer Science, Mathematics and Physics, 11x hackathon winner, ex - Software Engineering at Amazon. I read an average of 3 Machine Learning research papers per month. 
+    <p>I'm a huge fan of open-source.</p>
 </div>
 <hr>
 <div>
