@@ -77,7 +77,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&color=black">
   <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white&color=black">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&color=black">
 </div>
 
 <br/>
