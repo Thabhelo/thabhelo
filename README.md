@@ -1,60 +1,88 @@
 <div align="center">
-    <h2> Hey there, I'm Thabhelo </h2>
-    <img src="https://github.com/Thabhelo/thabhelo/assets/50872400/7ee7568e-acec-4ad0-93cd-42866f6d779d" height="500" width="600">
-    <hr>
-    <p><b><i> I sleep, sing, code, run, read, write and repeat </i></b></p>
-    <ul>
-        <li> Reach me at <a href="mailto:thabhelo@deepubuntu.com">thabhelo@deepubuntu.com</a>
-    </ul>
-    <hr>
-</div> 
-<div align="center">
-    <h2>About Me</h2>
-    <p>Computer Science, Mathematics and Physics, 11x hackathon winner, ex - Software Engineering at Amazon. I read an average of 3 Machine Learning research papers per month. 
-    <p>I'm a huge fan of open-source.</p>
+
+  <img src="./terminal_header.svg" width="100%" alt="THABHELO TERMINAL" />
+
+  <br />
+
+  <code>I sleep | sing | code | run | read | write | repeat</code>
+
+  <br />
+  <br />
+
+  <code>
+    [ <a href="mailto:thabhelo@deepubuntu.com"><b>email :: thabhelo@deepubuntu.com</b></a> ]
+    &nbsp;&nbsp;
+    [ <a href="https://instagram.com/thabhelo_tabs"><b>instagram :: @thabhelo_tabs</b></a> ]
+  </code>
+
 </div>
-<hr>
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=thabhelo&show_icons=true&theme=dark" alt="Thabhelo's GitHub Stats">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabhelo&theme=dark&layout=compact" alt="Top Languages">
-    </a>
-    <a href="https://wakatime.com/@b1786318-8a96-4d5e-b9cb-c4465e1861ff"><img src="https://wakatime.com/badge/user/b1786318-8a96-4d5e-b9cb-c4465e1861ff.svg" alt="Total time coded since Sep 23 2023" /></a>                  
-    <a href="https://git.io/streak-stats">    
-        <img src="https://streak-stats.demolab.com/?user=thabhelo" alt="Thabhelo's GitHub streak stats">
-    </a> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=thabhelo&theme=dracula" alt="GitHub Profile Trophies">
-    </a>
-</div>
-<hr>
+
+<br />
+
 <div align="center">
-    <h3>🛠️ Development Environments</h3>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/-Mac-000000?style=flat-square&logo=apple&logoColor=white">
+  <h3><code>// ~ who </code></h3>
+  <code>
+    CS, Math & Physics<br/>
+    11x Hackathon Winner<br/>
+    ex-Software Engineering @ Amazon, ex-ML Engineering @ Analytical AI<br/>
+    I read ~3 ML papers/month<br/>
+    I love Open Source
+  </code>
 </div>
+
+<br />
+
 <div align="center">
-    <h3>🛠️ Key Competencies</h3>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-    <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white">
-    <img src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white">
-    <img src="https://img.shields.io/badge/-TSQL-000000?style=flat-square&logo=tsql&logoColor=white">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/-XML-000000?style=flat-square&logo=xml&logoColor=white">
+  <h3><code>// SYSTEM_STATS</code></h3>
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.demolab.com/?user=thabhelo&hide_border=true&ring=39FF14&currStreakLabel=39FF14&fire=39FF14&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117" />
+  </a>
 </div>
+
+<br />
+
 <div align="center">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-    <img src="https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=svg&logoColor=white">
+  <h3><code>// TECH_STACK</code></h3>
+
+  <code>[LANGUAGES]</code>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=39FF14&color=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white&color=black">
+
+  <br/>
+
+  <code>[WEB]</code>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=black">
+
+  <br/>
+
+  <code>[TOOLS]</code>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=39FF14&color=black">
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white&color=black">
+
+  <br/>
+
+  <code>[OS]</code>
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&color=black">
+  <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&color=black">
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <code>echo "Exiting..."</code>
 </div>
