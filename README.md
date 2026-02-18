@@ -10,7 +10,7 @@
 </div> 
 <div align="center">
     <h2>About Me</h2>
-    <p>Computer Science, Mathematics and Physics, 8x hackathon winner, formerly Software Engineering at Amazon. I read an average of 6 Machine Learning research papers per month. 
+    <p>Computer Science, Mathematics and Physics, 11x hackathon winner, formerly Software Engineering at Amazon. I read an average of 3 Machine Learning research papers per month. 
     <p>I'm a huge fan of open-source and I'm always looking for ways to give back to the community.</p>
 </div>
 <hr>
