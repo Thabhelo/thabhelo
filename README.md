@@ -25,7 +25,6 @@
     CS, Math & Physics<br/>
     11x Hackathon Winner<br/>
     ex-Software Engineering @ Amazon, ex-ML Engineering @ Analytical AI<br/>
-    I read ~3 ML papers/month<br/>
     I love Open Source
   </code>
 </div>
